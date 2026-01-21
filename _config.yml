@@ -1,0 +1,11 @@
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+locale: "en-US"
+title: "Nathaniel Bonacci"
+description: "Mechanical & Computer Engineering | Simulation & Robotics"
+url: "https://bonaccin.github.io"
+baseurl: ""
